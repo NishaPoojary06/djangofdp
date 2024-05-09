@@ -24,7 +24,7 @@ def tables(n1,n2):
     l1=[]
     str1='x'
     str2='='
-    str4="--------      "
+    str4="--------"
     if n1>n2:
         n1,n2=n2,n1
     for i in range(n1,n2+1):
